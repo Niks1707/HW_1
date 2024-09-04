@@ -1,7 +1,6 @@
 public class Main {
 
-    private static String msg = "Hello qa.guru!!!!!!";
-
+    private static String hi = "Hello qa.guru!";
 
     public static void main(String[] args) {
 
@@ -10,7 +9,7 @@ public class Main {
 
     private static String getMessage ()
     {
-        return msg;
+        return hi;
     }
 
 }
